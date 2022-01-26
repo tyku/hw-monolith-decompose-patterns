@@ -5,7 +5,7 @@
 ### Description
     - Сервис обеспечивает взаимодействие пользователя через бот-апи сервиса telegram в привычном для него виде.
 ### Dependencies
-    - flow-service
+    - flow-service (По запросу получать следующую карточку со словом/уроком. Получать пункты меню)
 ### Event-subscription (telegram events)
     - start
     - callback_query

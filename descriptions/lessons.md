@@ -5,8 +5,8 @@
 ### Description
     - Сервис по работе с уроками. Работа с уроками слов: текст/аудио/картинки.
 ### Dependencies
-    - flow-service
-    - admin-gateway-service
+- flow-service (Отдавать по запросу уроки)
+  - admin-gateway-service (REST по работе с уроками)
 ### Event-subscription (telegram events)
 ### Queries and commands
     - POST: /lesson/upload (Загрузка урока)
