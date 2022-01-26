@@ -9,6 +9,6 @@
     - admin-gateway-service
 ### Event-subscription (telegram events)
 ### Queries and commands
-    - POST: /lesson/upload
-    - DELETE: /lesson/:id 
-    - GET: /lesson/:id 
+    - POST: /lesson/upload (Загрузка урока)
+    - DELETE: /lesson/:id (Удаление урока)
+    - GET: /lesson/:id (Получение урока)

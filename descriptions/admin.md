@@ -9,9 +9,9 @@
     - lessons-service
 ### Event-subscription (telegram events)
 ### Queries and commands
-    - POST: /word/upload
-    - POST: /lesson/upload
-    - DELETE: /word/:id 
-    - DELETE: /lesson/:id 
-    - GET: /word/:id 
-    - GET: /lesson/:id 
+    - POST: /word/upload (Загрузка слов)
+    - POST: /lesson/upload (Загрузка уроков)
+    - DELETE: /word/:id (Удаление слова)
+    - DELETE: /lesson/:id (Удаление урока) 
+    - GET: /word/:id (Получение слова)
+    - GET: /lesson/:id (Получение урока)

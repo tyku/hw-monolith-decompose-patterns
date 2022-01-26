@@ -9,6 +9,6 @@
     - admin-gateway-service
 ### Event-subscription (telegram events)
 ### Queries and commands
-    - POST: /word/upload
-    - DELETE: /word/:id 
-    - GET: /word/:id 
+    - POST: /word/upload (Загрузка слов)
+    - DELETE: /word/:id (Удаление слов)
+    - GET: /word/:id (Получение слов)
